@@ -17,6 +17,8 @@ npm i ejs
 
 npm i method-override
 
+npm i ejs-mate, to add templates to our data
+
 **EXISTING FILES:**
 _Models directory_
 A basic model for our campground 
